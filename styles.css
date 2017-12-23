@@ -2,3 +2,9 @@ body {
   background-size: cover;
   background-image: url("sea-bg.jpg");
   }
+.h1Center {
+  text-align: center;
+}
+.pCenter {
+  text-align: center;
+}

@@ -1,12 +1,4 @@
 body {
   background-size: cover;
   background-image: url("sea-bg.jpg");
-  
-  div.h1Center {
-      text-align: center;
-      }
-  
-  div.pCenter {
-      text-align: center;
-      }
   }

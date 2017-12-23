@@ -1,4 +1,8 @@
 body {
   background-size: cover;
   background-image: url("sea-bg.jpg");
+  .center {
+    margin: auto;
+    width: 50%;
+  }
   }

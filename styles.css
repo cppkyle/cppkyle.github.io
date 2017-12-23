@@ -7,9 +7,11 @@ body {
   font-family: Courier;
   text-align: center;
   color: #ffffff;
+  font-size:10vw;
 }
 .pCenter {
   font-family: Arial;
   text-align: center;
   color: #ffffff;
+  font-size:5vw;
 }

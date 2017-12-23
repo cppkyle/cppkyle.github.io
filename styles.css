@@ -3,6 +3,7 @@ body {
   background-image: url("sea-bg.jpg");
   }
 .h1Center {
+  font-family: Courier;
   text-align: center;
   color: #ffffff;
 }

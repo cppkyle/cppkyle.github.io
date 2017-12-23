@@ -1,9 +1,7 @@
 body {
   background-size: cover;
   background-image: url("sea-bg.jpg");
-  max-width: 100%;
-    height: auto;
-    width: auto\9; /* ie8 */
+  background-repeat: no-repeat;
   }
 .h1Center {
   font-family: Courier;

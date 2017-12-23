@@ -1,7 +1,20 @@
 body {
   background-size: cover;
   background-image: url("sea-bg.jpg");
-h1 {
-    text-align: center;
-}
+  
+  div.h1Align {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.h1Align h1 {
+  margin: 0 }
+  
+  div.pBotAlign {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+  div.pBotAlign p {
+  margin: 0 }
   }

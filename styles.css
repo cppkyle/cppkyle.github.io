@@ -2,27 +2,11 @@ body {
   background-size: cover;
   background-image: url("sea-bg.jpg");
   
-  div.h1Align {
-    height: 10em;
-    position: relative }
-  div.h1Align h1 {
-    margin: 0;
-    background: yellow;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) }
+  div.h1Center {
+      text-align: center;
+      }
   
-  div.pBotAlign {
-    height: 10em;
-    position: relative }
-  div.pBotAlign p {
-    margin: 0;
-    background: yellow;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%) }
+  div.pCenter {
+      text-align: center;
+      }
   }

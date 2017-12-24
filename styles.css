@@ -6,6 +6,10 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-color: #ffffff;
+  nav {
+	marin-left: 30%;
+	margin-right: 30%;
+}
 }
 @media only screen and (max-width: 1441px) { body {
   /* Location of the image */

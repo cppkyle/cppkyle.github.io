@@ -6,10 +6,6 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-color: #ffffff;
-  nav {
-	margin-left: 30%;
-	margin-right: 30%;
-}
 }
 @media only screen and (max-width: 1441px) { body {
   /* Location of the image */
@@ -56,11 +52,11 @@ body {
       opacity: 1
   }
 }
-body {margin: 0;}
+body {margin: auto;}
 
 ul.topnav {
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
     overflow: hidden;
 }

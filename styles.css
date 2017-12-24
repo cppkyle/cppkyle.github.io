@@ -7,7 +7,7 @@ body {
   background-size: cover;
   background-color: #ffffff;
 }
-@media only screen and (max-width: 1440px) { body {
+@media only screen and (max-width: 1441px) { body {
   /* Location of the image */
   background-image: url(cppkyle.github.io/sea-bg-rz118.jpg);
   background-position: center center;

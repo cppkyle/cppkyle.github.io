@@ -83,7 +83,7 @@ ul.topnav li a:hover:not(.active) {
 }
 
 ul.topnav li a.active {
-  background-color: #4CAF50;
+  background-color: #000000;
 }
 
 ul.topnav li.center {

@@ -7,6 +7,10 @@ body {
   background-size: cover;
   background-color: #ffffff;
 }
+body, html { 
+    overflow-x: hidden; 
+    overflow-y: auto;
+}
 @media only screen and (max-width: 1441px) { body {
   /* Location of the image */
   background-image: url(cppkyle.github.io/sea-bg-rz118.jpg);

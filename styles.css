@@ -57,7 +57,6 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
 }
 
 li {
@@ -69,7 +68,6 @@ li a {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
 }
 
 li a:hover:not(.active) {
@@ -77,5 +75,6 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: #ffffff;
+    text-color: #000000; 
 }

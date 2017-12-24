@@ -59,6 +59,7 @@ ul.topnav {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    color: #ffffff;
 }
 
 ul.topnav li {float: left;}
@@ -71,7 +72,7 @@ ul.topnav li a {
     text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {background-color: #111;}
+ul.topnav li a:hover:not(.active) {color: #111;}
 
 ul.topnav li a.active {
   background-color: #000000;

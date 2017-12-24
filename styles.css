@@ -7,6 +7,16 @@ body {
   background-size: cover;
   background-color: #ffffff;
 }
+@media only screen and (max-width: 767px) { body {
+  /* Location of the image */
+  background-image: url(cppkyle.github.io/sea-bg-rz118.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #ffffff;
+}
+}
 .h1Center {
   font-family: Courier;
   text-align: center;

@@ -61,7 +61,7 @@ ul.topnav {
     overflow: hidden;
 }
 
-ul.topnav li {float: center;}
+ul.topnav li {float: left;}
 
 ul.topnav li a {
     display: block;

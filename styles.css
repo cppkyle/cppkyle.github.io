@@ -32,6 +32,10 @@ body, html {
   text-align: center;
   color: #ffffff;
 }
+.aLink {
+  font-family: Arial;
+  color: #ffa500
+}
 .footerCenter {
   letter-spacing: 2px;
   opacity: 0.4;
